@@ -96,3 +96,9 @@
 - Logs useful, non-sensitive, and structured?
 - Tests cover business-critical behavior and edge cases?
 - Avoidable complexity removed?
+
+## Working with Legacy Code
+- Apply these standards to NEW code
+- Refactor existing code incrementally when touching it
+- Don't force modern patterns where they create more problems
+- Document deviations when pragmatic trade-offs are made
